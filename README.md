@@ -84,7 +84,7 @@ request.get_signed_cookie('age',salt='i am salt') # 解密cookie, salt是盐值
 ## #3 session
 
 ```
-https://blog.csdn.net/Coxhuang/article/details/86694441
+https://github.com/Coxhuang/django-session
 ```
 
 
