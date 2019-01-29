@@ -81,7 +81,7 @@ request.get_signed_cookie('age',salt='i am salt') # 解密cookie, salt是盐值
 - 获取cookie时,由原来的request.COOKIES.get('age') 改成request.get_signed_cookie('age',salt='i am salt')
 
 
-## 3 session
+## #3 session
 
 ```
 https://blog.csdn.net/Coxhuang/article/details/86694441
